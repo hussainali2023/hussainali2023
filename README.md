@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainali2023&label=Profile%20views&color=0e75b6&style=flat" alt="hussainali2023" /> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Typescript & Next.js**
 
 - 📫 How to reach me **iamhussainali2@gmail.com**
 
