@@ -18,48 +18,6 @@
 
 I'm a passionate developer from **India 🇮🇳**, currently on an intensive journey to become a **Full Stack Engineer**, **AI Engineer**, and **DevOps-ready developer**. I believe in building things that matter — from industry-standard backends to intelligent AI-powered applications.
 
----
-
-## 🚀 Current Learning Roadmap
-
-### 🔷 Phase 1 — Full Stack Developer
-
-> Mastering the modern web stack from frontend to backend
-
-- **TypeScript** — Type-safe development
-- **Node.js & Express** — RESTful API design & server-side logic
-- **SQL, RDBMS & Prisma** — Relational databases & ORM
-- **Next.js** — Full-stack React framework
-- Industry-standard project architecture with PRD & Database Design
-- **Redis** caching, multi-threading & query optimization
-- 🏥 *Capstone:* AI-powered **PH Healthcare Full-Stack Project**
-
----
-
-### 🤖 Phase 2 — AI Engineer
-
-> Integrating intelligence into real-world applications
-
-- Fundamentals of **AI, ML & LLMs** and their real-world use cases
-- **AI Integration** with Node.js Backend
-- Building an **AI Chat Assistant**
-- 🏥 **AI Medical Report Summarization System**
-- **Embeddings, Semantic Search & RAG Systems** implementation
-
----
-
-### 🐳 Phase 3 — Docker & Nginx Nomad
-
-> Shipping production-ready containerized applications
-
-- Introduction to **Docker** — Images, Containers, Volumes & Networks
-- Cross-container communication & managing persistent data
-- Building **multi-container applications** with Docker
-- **Docker Compose** for orchestration & utility containers
-- **Reverse Proxy** with Nginx
-- **Load Balancing** strategies with Nginx
-
----
 
 ## 🛠️ Languages & Tools
 
