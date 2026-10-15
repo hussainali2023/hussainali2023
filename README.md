@@ -1,450 +1,80 @@
+
 <div align="center">
-
-<!-- HEADER ACCENT BAR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:e8a84c,100:0a0a0a&height=6&section=&desc=&fontSize=0" />
-
-<br/>
-
-<!-- NAME AND TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&duration=3000&pause=1500&color=e8a84c&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Md+Hussain+Ali+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=13&duration=2500&pause=2500&color=a8a29e&center=true&vCenter=true&width=540&lines=Building+scalable+web+applications;Exploring+AI+and+Intelligent+Systems;Shipping+clean+code+that+matters" alt="Sub" />
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://twitter.com/hussainali2023">
-  <img src="https://img.shields.io/badge/-Twitter-0A0A0A?style=flat-square&logo=x&logoColor=ffffff" height="28" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/hussainali2023">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2" height="28" />
-</a>&nbsp;
-<a href="mailto:iamhussainali2@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-0A0A0A?style=flat-square&logo=protonmail&logoColor=e8a84c" height="28" />
-</a>&nbsp;
-<a href="https://github.com/hussainali2023">
-  <img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=ffffff" height="28" />
+​<!-- Animated Typing Header -->
+<a href="https://hussain.iamhussainali2.workers.dev/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hussain+Ali;Full-Stack+Developer+%26+Cloud+Enthusiast;Building+Scalable+Web+Applications;Explore+My+Work+Below+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:181818,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-
-</div>
-
-<!-- ABOUT ME -->
-
-<br/>
-
-<div align="center">
-
-### `// About Me`
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**Who am I?**
-
-I am **Md Hussain Ali**, a passionate full-stack developer from **India** with a **Master's degree in English Literature**. I have had a deep passion for programming since childhood. After completing my post-graduation, I made the deliberate decision to follow my true calling into software development.
-
-I believe in building things that matter from industry-standard backends to intelligent AI-powered applications.
-
-**What drives me?**
-
-- Building things that matter
-- Writing code for humans first
-- Shipping it, then perfecting it
-- Diverse backgrounds create the best developers
-
-</td>
-<td width="50%">
-
-**Quick Facts**
-
-- Based in **India**
-- Focused on **Full Stack Engineering**
-- Exploring **AI and Intelligent Systems**
-- Open to **collaboration and opportunities**
-
-<br/>
-
-**Currently Working With**
-
-<img src="https://img.shields.io/badge/JavaScript-90%25-e8a84c?style=flat-square&labelColor=111111" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-75%25-e8a84c?style=flat-square&labelColor=111111" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-85%25-e8a84c?style=flat-square&labelColor=111111" />&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-80%25-e8a84c?style=flat-square&labelColor=111111" />&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-80%25-e8a84c?style=flat-square&labelColor=111111" />&nbsp;
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-</div>
-
-<!-- TECH STACK -->
-
-<br/>
-
-<div align="center">
-
-### `// Tech Stack`
-
-<br/>
-
-**Languages**
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-<br/>
-<b>JavaScript</b>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-<br/>
-<b>TypeScript</b>
-</td>
-</tr>
-</table>
-
-**Backend**
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-<br/>
-<b>Node.js</b>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
-<br/>
-<b>Express</b>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40" height="40" />
-<br/>
-<b>Socket.io</b>
-</td>
-</tr>
-</table>
-
-**Databases and ORM**
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-<br/>
-<b>PostgreSQL</b>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-<br/>
-<b>MongoDB</b>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
-<br/>
-<b>Redis</b>
-</td>
-</tr>
-</table>
-
-**DevOps and Tools**
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
-<br/>
-<b>Docker</b>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" />
-<br/>
-<b>Firebase</b>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" />
-<br/>
-<b>Postman</b>
-</td>
-<td align="center" width="100">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
-<br/>
-<b>Git</b>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-</div>
-
-<!-- PROFICIENCY -->
-
-<br/>
-
-<div align="center">
-
-### `// Proficiency`
-
-<br/>
-
-<table>
-<tr>
-<td align="right" width="160"><b>JavaScript</b></td>
-<td><img src="https://geps.dev/progress/90?dangerColor=404040&warningColor=404040&successColor=e8a84c" height="20" /></td>
-</tr>
-<tr>
-<td align="right" width="160"><b>TypeScript</b></td>
-<td><img src="https://geps.dev/progress/75?dangerColor=404040&warningColor=404040&successColor=e8a84c" height="20" /></td>
-</tr>
-<tr>
-<td align="right" width="160"><b>Node.js / Express</b></td>
-<td><img src="https://geps.dev/progress/85?dangerColor=404040&warningColor=404040&successColor=e8a84c" height="20" /></td>
-</tr>
-<tr>
-<td align="right" width="160"><b>PostgreSQL / Prisma</b></td>
-<td><img src="https://geps.dev/progress/80?dangerColor=404040&warningColor=404040&successColor=e8a84c" height="20" /></td>
-</tr>
-<tr>
-<td align="right" width="160"><b>MongoDB / Mongoose</b></td>
-<td><img src="https://geps.dev/progress/80?dangerColor=404040&warningColor=404040&successColor=e8a84c" height="20" /></td>
-</tr>
-<tr>
-<td align="right" width="160"><b>Redis / Caching</b></td>
-<td><img src="https://geps.dev/progress/70?dangerColor=404040&warningColor=404040&successColor=e8a84c" height="20" /></td>
-</tr>
-<tr>
-<td align="right" width="160"><b>Docker / DevOps</b></td>
-<td><img src="https://geps.dev/progress/65?dangerColor=404040&warningColor=404040&successColor=e8a84c" height="20" /></td>
-</tr>
-<tr>
-<td align="right" width="160"><b>Socket.io / Real-Time</b></td>
-<td><img src="https://geps.dev/progress/75?dangerColor=404040&warningColor=404040&successColor=e8a84c" height="20" /></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-</div>
-
-<!-- CURRENTLY LEARNING -->
-
-<br/>
-
-<div align="center">
-
-### `// Currently Learning`
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-- AI, ML and LLM Basics
-- AI Integration with Node.js
-- LangChain for LLM Orchestration
-- AI Chat Assistant
-
-</td>
-<td width="50%">
-
-- Embeddings and Semantic Search
-- RAG System Implementation
-- LLM Fine-Tuning and Customization
-- AI Automation with n8n
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI-0A0A0A?style=flat-square&logo=openai&logoColor=e8a84c" height="26" />&nbsp;
-<img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logo=chainlink&logoColor=e8a84c" height="26" />&nbsp;
-<img src="https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logo=elastic&logoColor=e8a84c" height="26" />&nbsp;
-<img src="https://img.shields.io/badge/n8n-0A0A0A?style=flat-square&logo=n8n&logoColor=e8a84c" height="26" />&nbsp;
-<img src="https://img.shields.io/badge/LLM-0A0A0A?style=flat-square&logo=huggingface&logoColor=e8a84c" height="26" />&nbsp;
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-</div>
-
-<!-- GITHUB STATS -->
-
-<br/>
-
-<div align="center">
-
-### `// GitHub Stats`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hussainali2023&show_icons=true&theme=dark&bg_color=0a0a0a&hide_border=true&title_color=e8a84c&icon_color=e8a84c&text_color=a8a29e&ring_color=e8a84c&include_all_commits=true&count_private=true" width="49%" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainali2023&layout=compact&theme=dark&bg_color=0a0a0a&hide_border=true&title_color=e8a84c&text_color=a8a29e&langs_count=8&card_width=300" width="38%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainali2023&theme=dark&background=0a0a0a&hide_border=true&ring=e8a84c&fire=e8a84c&currStreakLabel=e8a84c&sideLabels=a8a29e&currStreakNum=a8a29e&sideNums=a8a29e" width="72%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainali2023&bg_color=0a0a0a&color=a8a29e&line=e8a84c&point=ffffff&area=true&area_color=e8a84c&area_opacity=0.15&hide_border=true&line_size=2&point_size=0" width="82%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-</div>
-
-<!-- ACHIEVEMENTS -->
-
-<br/>
-
-<div align="center">
-
-### `// Achievements`
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hussainali2023&theme=onedark&no-frame=true&no-bg=false&margin-w=6&margin-h=6&row=1&column=4" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hussainali2023&theme=onedark&no-frame=true&no-bg=false&margin-w=6&margin-h=6&row=2&column=4" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-</div>
-
-<!-- CONTRIBUTION SNAKE -->
-
-<br/>
-
-<div align="center">
-
-### `// Contribution Map`
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/hussainali2023/hussainali2023/output/github-snake-dark.svg" width="80%" alt="Contribution Snake" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-</div>
-
-<!-- DEV QUOTE -->
-
-<br/>
-
-<div align="center">
-
-### `// Dev Quote`
-
-<br/>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=2&section=&desc=&fontSize=0" />
-</div>
-
-<!-- CONNECT -->
-
-<br/>
-
-<div align="center">
-
-### `// Let's Connect`
-
-<br/>
-
-I am always open to interesting conversations, collaborations, and opportunities.
-
-<br/>
-
-<a href="mailto:iamhussainali2@gmail.com">
-  <img src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-e8a84c?style=for-the-badge&logo=protonmail&logoColor=0a0a0a&labelColor=0a0a0a&color=e8a84c" height="38" />
+​<h3>💻 Software Developer | ⚡ Edge & Cloud Architecture | 🌐 Web Craftsman</h3>
+​<!-- Portfolio & Social Badges -->
+<p align="center">
+<a href="https://hussain.iamhussainali2.workers.dev/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Portfolio-hussain.workers.dev-0EA5E9?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
 </a>
-
-<br/><br/>
-
-<a href="https://twitter.com/hussainali2023">
-  <img src="https://img.shields.io/badge/-Twitter-0A0A0A?style=flat-square&logo=x&logoColor=ffffff" height="28" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/hussainali2023">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2" height="28" />
-</a>&nbsp;
-<a href="mailto:iamhussainali2@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-0A0A0A?style=flat-square&logo=protonmail&logoColor=e8a84c" height="28" />
-</a>&nbsp;
-<a href="https://github.com/hussainali2023">
-  <img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=ffffff" height="28" />
+<a href="https://linkedin.com/in/hussainali2023" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="mailto:iamhussainali2@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://x.com/hussainali2023" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+</p>
+​<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=hussainali2023&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+​</div>
 
-<br/><br/>
 
-**If you find my work useful, consider leaving a star. It means more than you think.**
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=hussainali2023&color=e8a84c&style=flat-square&label=PROFILE+VIEWS&labelColor=0a0a0a" alt="Profile Views" />
 
-<br/><br/>
+​🚀 About Me
+​I am a passionate Software Developer focused on crafting high-performance, user-centric web applications and deploying scalable serverless solutions on the edge.
+​🌐 Portfolio: hussain.iamhussainali2.workers.dev
+​🔭 Currently working on: Building fast, resilient full-stack applications and serverless APIs.
+​🌱 Currently exploring: Edge computing (Cloudflare Workers), distributed systems, and modern UI engineering.
+​🤝 Open to: Full-time opportunities, freelance collaborations, and open-source contributions.
+​💬 Ask me about: JavaScript/TypeScript, React, Next.js, Node.js, and Cloud Deployments.
+​📫 Reach me at: iamhussainali2@gmail.com
+​🛠️ Tech Stack & Tools
+​Frontend Development
+​<p align="left">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+​Backend, Database & Cloud Edge
+​<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+​🏆 Featured Projects
+DescriptionTech StackLive Demo
+⚡ Personal PortfolioHigh-speed interactive developer portfolio deployed globally on the Cloudflare Edge network.Cloudflare Workers Modern Web🔗 Live Site
+🚀 Project OneReplace with your top flagship project description and key problem solved.Next.js TypeScript Tailwind🔗 Repo / Demo
+🛠️ Project TwoReplace with your second featured project or full-stack API service.Node.js PostgreSQL Docker🔗 Repo / Demo
 
-<!-- FOOTER ACCENT BAR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:e8a84c,100:0a0a0a&height=6&section=&desc=&fontSize=0" />
 
-<br/>
 
-<i><sub>Designed and built with care. 2025 Md Hussain Ali</sub></i>
 
+📊 GitHub Analytics & Streak
+​<div align="center">
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hussainali2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Hussain's GitHub Stats" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainali2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+</div>
+​<div align="center">
+<img src="https://streak-stats.demolab.com?user=hussainali2023&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+​<div align="center">
+<sub>✨ Crafted by <b>Hussain Ali</b> • Check out my live work at <a href="https://hussain.iamhussainali2.workers.dev/">hussain.iamhussainali2.workers.dev</a> ✨</sub>
 </div>
