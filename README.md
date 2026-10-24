@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Software Developer** passionate about building fast, scalable, and user-centric web applications. With a background as an **English & Mathematics educator**, I bring strong analytical problem-solving and clear communication to software architecture.
+I'm a **Full-Stack Software Developer** passionate about building fast, scalable, and user-centric web applications.I bring strong analytical problem-solving and clear communication to software architecture.
 
 - 🔭 **Currently Working On:** Full-stack web applications and multi-tenant SaaS architectures using **React, Node.js, Express, PostgreSQL, and Prisma ORM**.
 - 🌱 **Currently Exploring:** Containerization with **Docker**, **AI/ML engineering**, and **Retrieval-Augmented Generation (RAG)** workflows.
